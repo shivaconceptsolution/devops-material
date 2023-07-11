@@ -35,3 +35,6 @@ Tools
 6)  KUBERNATE
 
 7)  AWS 
+
+DEVOPS is the cloud based system that is sepcially designed to deploy web applications and API application.
+
