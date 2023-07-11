@@ -1,0 +1,37 @@
+What is Devops?
+
+It is CI/CD based operation that provide continious integration and continious deployment of an application.
+
+DEVOPS is a cloud based model where operation team intereact with development and testing team and deploy the application module (build) under LIVE Server.
+
+It reduces developers time to deploy the application because it create pipeline to connect developer environment to testing environment and test envrionment to deployment environment.
+
+DEVOPS team will work as an intermediater between development team and testing team.
+
+
+
+1) Developer ---> Create Application--> PUSH---> Github---> by git command
+
+
+2)  Testing  ----> pull the code from github---> push into testing environment ---->  Test the code ---> review the application
+
+
+3) Devops  ----->   Deploy the code from github to client machine
+
+
+
+Tools
+
+1)  github and git 
+
+2)  Java installation and deploy java application with Maven
+
+3)  Linux (Linux Command, Shell Scripting)
+
+4)  JENKINS
+
+5)  DOCKER  
+
+6)  KUBERNATE
+
+7)  AWS 
